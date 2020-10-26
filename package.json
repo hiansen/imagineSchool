@@ -4,7 +4,8 @@
   "description": "a repository made for studying in Imagina School's FrontEnd program",
   "main": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server src/"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,6 @@
   "homepage": "https://github.com/hiansen/studion#readme",
   "devDependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "dependencies": {}
 }
