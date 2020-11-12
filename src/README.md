@@ -7,26 +7,24 @@ This is the first project of the Frontend Development course for the Imagine Sch
 
 ### Clone the project / Clone o projeto
 
-'''
-
+```
 git clone https://github.com/hiansen/studion.git
-'''
+```
 
 ### Install the project dependencies / Instale as dependências do projeto
 
-'''
-
+```
 npm install
-'''
+```
+
 
 ### Start the project / Inicie o projeto
 
-'''
-
+```
 cd studion
 
 npm run start
-'''
+```
 
 ### Questions / Perguntas
 
